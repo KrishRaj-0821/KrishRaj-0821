@@ -58,15 +58,15 @@
 ---
 
 ## 🌐 Connect & Follow
-<p align="left">
+<div align="center">
 <a href="https://linkedin.com/in/krish-raj-4932a6322"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/@raj_kishu0821"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+<a href="https://instagram.com/raj_kishu0821"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 <a href="mailto:connect.with.me925@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://visitcount.itsvg.in/api?id=KrishRaj-0821&icon=0&color=0" alt="visitor count" />
-</p>
+</div>
 
 <!--
 **KrishRaj-0821/KrishRaj-0821** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
