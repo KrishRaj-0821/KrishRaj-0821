@@ -83,10 +83,15 @@
 ---
 
 ## 📈 GitHub Analytics Overview
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishRaj-0821&theme=midnight-purple&hide_border=true&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishRaj-0821&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="left">
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=HTML%20Usage&query=%24.languages.HTML&url=https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%2Ftop-langs%2F%3Fusername%3DKrishRaj-0821%26format%3Djson&color=E34F26" alt="HTML Live Tracker" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=CSS%20Usage&query=%24.languages.CSS&url=https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%2Ftop-langs%2F%3Fusername%3DKrishRaj-0821%26format%3Djson&color=1572B6" alt="CSS Live Tracker" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=JS%20Usage&query=%24.languages.JavaScript&url=https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%2Ftop-langs%2F%3Fusername%3DKrishRaj-0821%26format%3Djson&color=F7DF1E" alt="JavaScript Live Tracker" />
+
+  <br />
+
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Total%20Commits&query=%24.commits&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fcommits%3Fq%3Dauthor%3AKrishRaj-0821&color=midnightpurple" alt="Total Commits Tracker" />
+</div>
 
 ### 🏆 Trophies
 <p align="center">
@@ -100,7 +105,6 @@
 <a href="https://linkedin.com/in/krish-raj-4932a6322" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://leetcode.com/u/KrishRaj-0821/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 <a href="https://youtube.com/@Error_code21" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-<a href="https://instagram.com/raj_kishu0821" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 <a href="mailto:connect.with.me925@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
