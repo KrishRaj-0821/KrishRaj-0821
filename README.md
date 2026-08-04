@@ -93,10 +93,7 @@
   <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Total%20Commits&query=%24.commits&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fcommits%3Fq%3Dauthor%3AKrishRaj-0821&color=midnightpurple" alt="Total Commits Tracker" />
 </div>
 
-### 🏆 Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KrishRaj-0821&theme=radical&column=7&no-background=true" alt="GitHub Trophies" />
-</p>
+
 
 ---
 
@@ -108,7 +105,4 @@
 <a href="mailto:connect.with.me925@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
-<p align="center">
-  <br />
-  <img src="https://visitcount.itsvg.in/api?id=KrishRaj-0821&icon=0&color=12" alt="visitor count" />
-</p>
+
