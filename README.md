@@ -1,8 +1,6 @@
 # 🚀 Hi there, I'm Krish Raj 👋
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KrishRaj-0821&show_icons=true&theme=midnight-purple&hide_border=true" alt="Krish's GitHub Stats" />
-</p>
+
 
 ### 🎓 Engineering Student | B.Tech CSE (AI & ML) @ VVIT Purnea (Session 2024-2028)
 *Passionate about building responsive web applications, managing retail tech solutions, and solving problems through Data Structures & Algorithms.*
