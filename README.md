@@ -1,106 +1,80 @@
-# 🚀 Hi there, I'm Krish Raj 👋
-
-
-
-### 🎓 Engineering Student | B.Tech CSE (AI & ML) @ VVIT Purnea (Session 2024-2028)
-*Passionate about building responsive web applications, managing retail tech solutions, and solving problems through Data Structures & Algorithms.*
-
-- 🌐 **Portfolio:** [rajkishu.netlify.app](https://rajkishu.netlify.app/)
-- 🔭 **Current Focus:** Core Web Development (HTML5, CSS3, JS, Bootstrap) & DSA in C++
-- 🤖 **AI/ML:** Exploring Python automation, Generative AI models, and voice assistants
-- 💼 **Open for:** Collaborating on Open Source, Hackathons, & Developer opportunities
-- ✍️ **Motto:** "Code fast, optimize faster, document best."
-
----
-
-## 🛠 Tech Stack & Expertise
-
-| Category | Tools & Languages |
-| :--- | :--- |
-| **Languages** | ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JS-F7DF1E?logo=javascript&logoColor=black) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white) |
-| **Backend & Cloud** | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) |
-| **Deployment** | ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white) ![Render](https://img.shields.io/badge/-Render-000000?logo=render&logoColor=white) |
-
----
-
-## 📊 Live Metrics & Real-Time Trackers
-
-<div align="left">
-  <a href="https://github.com/KrishRaj-0821">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=GitHub%20Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FKrishRaj-0821&color=blueviolet&logo=github" alt="Live Repos" />
-  </a>
-  <a href="https://github.com/KrishRaj-0821">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FKrishRaj-0821&color=7952B3&logo=github" alt="Live Followers" />
-  </a>
-  
-  <br />
-
-  <a href="https://leetcode.com/u/KrishRaj-0821/" target="_blank">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=LeetCode%20Solved&query=%24.totalSolved&url=https%3A%2F%2Fleetcode-api-faisalshohag.vercel.app%2FKrishRaj-0821&color=FFA116&logo=leetcode" alt="LeetCode Solved" />
-  </a>
-  <a href="https://leetcode.com/u/KrishRaj-0821/" target="_blank">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Ranking&query=%24.ranking&url=https%3A%2F%2Fleetcode-api-faisalshohag.vercel.app%2FKrishRaj-0821&color=gray&logo=leetcode" alt="LeetCode Ranking" />
-  </a>
-</div>
-
----
-
-## 🎯 Current Focus & Roadmap
-
-| Period | Goal |
-| :--- | :--- |
-| **Short Term** | Deepening core JavaScript fundamentals & mastering structural C++ DSA |
-| **Medium Term** | Developing AI integrations for Team Null State (Gen AI Exchange) & localized retail tools |
-| **Long Term** | Building optimized, lightweight cloud-connected web solutions for small businesses |
-
----
-
-## 🏗 Featured Projects
-
-### 🧠 [Guru Jii - Study Platform](https://github.com/KrishRaj-0821/Guru_Jii) *(Live on Netlify)*
-*An interactive study planner and learning platform built to help students map and structure their academic journey.*
-- **Stack:** HTML5, CSS3, JavaScript, Bootstrap, Firebase
-- **Key Feature:** Dynamic frontend task tracking powered by a real-time cloud backend database.
-
-### 🏪 [SK General Store Web Platform](https://github.com/KrishRaj-0821/Sk_General_Store) *(In Development)*
-*A custom, lightweight digital inventory and storefront application designed to digitize local kirana operations.*
-- **Stack:** HTML5, CSS3, JavaScript, Bootstrap, Firebase
-- **Key Feature:** Real-time product availability tracking and cloud-synced database structure.
-
-### 🤖 [Friday - AI Assistant](https://github.com/KrishRaj-0821/Friday-AI_Assistant)
-*A voice-controlled desktop AI assistant built to streamline daily workflows and run automated scripts.*
-- **Stack:** Python, SpeechRecognition, pyttsx3
-- **Key Feature:** High-performance speech execution system with immediate, offline voice feedback.
-
-### 🧮 [Matrix-Calculator](https://github.com/KrishRaj-0821/matrix-calculator)
-*A high-performance C-based utility for linear algebra operations.*
-- **Stack:** C, Algorithms
-- **Key Feature:** Low-level memory management optimized for large matrix inversions.
-
----
-
-## 📈 GitHub Analytics Overview
-<div align="left">
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=HTML%20Usage&query=%24.languages.HTML&url=https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%2Ftop-langs%2F%3Fusername%3DKrishRaj-0821%26format%3Djson&color=E34F26" alt="HTML Live Tracker" />
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=CSS%20Usage&query=%24.languages.CSS&url=https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%2Ftop-langs%2F%3Fusername%3DKrishRaj-0821%26format%3Djson&color=1572B6" alt="CSS Live Tracker" />
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=JS%20Usage&query=%24.languages.JavaScript&url=https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%2Ftop-langs%2F%3Fusername%3DKrishRaj-0821%26format%3Djson&color=F7DF1E" alt="JavaScript Live Tracker" />
-
-  <br />
-
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Total%20Commits&query=%24.commits&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fcommits%3Fq%3Dauthor%3AKrishRaj-0821&color=midnightpurple" alt="Total Commits Tracker" />
-</div>
-
-
-
----
-
-## 🌐 Connect & Follow
 <div align="center">
-<a href="https://linkedin.com/in/krish-raj-4932a6322" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://leetcode.com/u/KrishRaj-0821/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-<a href="https://youtube.com/@Error_code21" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-<a href="mailto:connect.with.me925@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <h1>Hi there, I'm <a href="https://rajkishu.netlify.app/">Krish Raj</a> 👋</h1>
+  <p><strong>B.Tech CSE Student @ Vidya Vihar Institute of Technology | Full-Stack Developer | AI & Automation Enthusiast</strong></p>
+
+  <p>
+    <a href="https://rajkishu.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-rajkishu.netlify.app-0070f3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/krish-raj-4932a6322/"><img src="https://img.shields.io/badge/LinkedIn-Krish_Raj-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:kishu210805@gmail.com"><img src="https://img.shields.io/badge/Email-kishu210805@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
 </div>
 
+---
 
+### 👨‍💻 About Me
+
+- 🎓 **Undergrad**: Pursuing B.Tech in Computer Science & Engineering (2024–2028) at VVIT, Purnea.
+- 💼 **Experience**: Former Web Developer Intern at **Software Services & Solutions (SSS), Patna**.
+- 🔭 **Currently Exploring**: Full-Stack Web Development, Agentic AI, Workflow Automation, and System Architecture.
+- 🎯 **Academic Focus**: Actively preparing for **GATE CS** with a core focus on Algorithms, Data Structures, and Operating Systems.
+- 📍 **Based In**: Purnea, Bihar, India.
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+**Languages**  
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Frameworks & Libraries**  
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![RESTful APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=fastapi&logoColor=white)
+
+**Developer Tools & Platforms**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+
+**Core Computer Science**  
+`Data Structures & Algorithms` • `Object-Oriented Programming (OOP)` • `Operating Systems` • `DBMS`
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Tech Stack | Description | Repo Link |
+| :--- | :--- | :--- | :--- |
+| **AAGAM** | Full-Stack, Modern UI | Modular web application featuring dynamic routing and state handling. | [View Code ↗](https://github.com/KrishRaj-0821/AAGAM) |
+| **DocSpot 2.0** | Django, Python, JS | Healthcare portal enabling doctor discovery, dynamic slot booking, and relational DB flows. | [View Code ↗](https://github.com/KrishRaj-0821/DocSpot2.o) |
+| **Guru Jii 2.0** | Python, Web APIs | AI-assisted study planner generating dynamic revision roadmaps based on completion metrics. | [View Code ↗](https://github.com/KrishRaj-0821/GuruJiii2.o) |
+| **VikasPath 247** | HTML5, Tailwind CSS, JS | Structured career roadmap and progress-tracking portal with mobile-first components. | [View Code ↗](https://github.com/KrishRaj-0821/vikash-path247) |
+| **Store247** | Tailwind CSS, JS | E-commerce digital storefront template featuring rapid client-side inventory filtering. | [View Code ↗](https://github.com/KrishRaj-0821/sk-general-store) |
+| **Quick Notes Tacker** | Chrome APIs (MV3), JS | Lightweight browser extension utilizing Chrome Storage for seamless in-tab note taking. | [View Code ↗](https://github.com/KrishRaj-0821/Quick_Notes_Tacker) |
+
+---
+
+### 📊 GitHub Activity & Stats
+
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=KrishRaj-0821&show_icons=true&theme=tokyonight&hide_border=true" alt="Krish Raj's GitHub Stats" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=KrishRaj-0821&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+</div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishRaj-0821&theme=tokyonight&hide_border=true" alt="Krish Raj's Streak" />
+</p>
+
+---
+
+<div align="center">
+  <sub>Designed & Maintained by <a href="https://github.com/KrishRaj-0821">Krish Raj</a>. Built with passion for software craft.</sub>
+</div>
